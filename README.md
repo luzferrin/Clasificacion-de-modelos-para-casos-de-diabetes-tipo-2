@@ -6,9 +6,20 @@ Comparación de seis modelos supervisados (árbol de decisión, bosque aleatorio
 1. Luz N. Ferrin R - https://github.com/luzferrin
 2. Antonio F. L. Jacob Jr. - https://github.com/jacobjr
 
-# Conjunto de datos
+## Conjunto de datos
 Este proyecto utiliza el conjunto de datos de Bangladesh de los autores [Buiyan et al. 2026].
-El conjunto de datos está disponible en: https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv 
+El dataset está disponible en: https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv 
+**Los modelos**: árbol de decisión, bosque aleatorio y MLP, fueron adaptados en este ejercicio de acuerdo con el baseline seleccionado [Sirocchi et al. 2024].
+**Artículo**: https://link.springer.com/article/10.1186/s12911-024-02582-4
+**Código**: https://github.com/ChristelSirocchi/medical-informed-ML
+
+El dataset de esta referencia TabZilla de los autores [McElfresh et al., 2023] Se utilizó este trabajo para seleccionar 3 modelos adicionales de acuerdo con sus resultados en datasets tabulares.
+**Los modelos** escogidos fueron: ResNet, SVM y CatBoost.
+**Artículo**: https://arxiv.org/pdf/2305.02997
+**Código**:https://github.com/naszilla/tabzilla
+Los datasets utilizados en el trabajo de TabZilla se encuentra está disponible en:
+1. https://github.com/naszilla/tabzilla/blob/main/scripts/DATASETS_A.sh
+2. https://github.com/naszilla/tabzilla/blob/main/scripts/DATASETS_B.sh
 
 ## Evaluación de 6 Modelos de Aprendizaje Automático para la Detección de Diabetes Tipo 2
 
