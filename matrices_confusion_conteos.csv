@@ -1,0 +1,13 @@
+﻿modelo,variante,TN,FP,FN,TP
+Árbol de decisión,Modelo,92,27,28,349
+Árbol de decisión,Modelo + reglas,100,19,75,302
+Bosque aleatorio,Modelo,91,28,3,374
+Bosque aleatorio,Modelo + reglas,100,19,68,309
+MLP,Modelo,86,33,22,355
+MLP,Modelo + reglas,100,19,69,308
+SVM,Modelo,70,49,23,354
+SVM,Modelo + reglas,100,19,69,308
+ResNet,Modelo,92,27,38,339
+ResNet,Modelo + reglas,100,19,70,307
+CatBoost,Modelo,91,28,2,375
+CatBoost,Modelo + reglas,100,19,68,309
